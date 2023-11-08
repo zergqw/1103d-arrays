@@ -12,3 +12,17 @@
 const fill = (arraySize, value) => {
  throw new Error('Напишите здесь свое решение');
 }
+
+/**
+  * Описание задачи: Напишите функцию, которая разворачивает массив в обратном порядке.
+  * Ожидаемый результат: [1, 2, 3] => [3, 2, 1]
+  * Сложность задачи: 1 of 5
+  * @param {Array} array - Массив любых элементов
+  * @returns {Array}
+*/
+const reverse = (array) => {
+ throw new Error('Напишите здесь свое решение');
+}
+
+const data = [1, 2, 3];
+console.log(reverse(data)); // [3, 2, 1]
