@@ -1,0 +1,11 @@
+{
+  "name": "re",
+  "version": "1.0.0",
+  "description": "/**   * Описание задачи: Напишите функцию, которая заполняет новый массив предоставленным значением.   * Ожидаемый результат: (3, 'a') => ['a', 'a', 'a']   * Сложность задачи: 1 of 5   * @param {number} arraySize - размер массива   * @param {?} value - значение для массива   * @returns {Array} */",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
